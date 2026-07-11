@@ -1,0 +1,136 @@
+{
+  "title": "Week Ahead — Market Outlook",
+  "generatedAt": "2026-07-11T09:30:00-04:00",
+  "asOf": "Saturday, July 11, 2026",
+  "weekOf": "Week of July 14, 2026",
+  "headline": "A dense convergence of June CPI and PPI, retail sales, Fed Chair Warsh's maiden Capitol Hill testimony, Q2 bank earnings, monthly options expiry, and a re-escalating US-Iran conflict will test a market sitting near record highs beneath a deceptively calm VIX.",
+  "volatility": "Elevated",
+  "volatilityScore": 7,
+  "volatilityRationale": "While spot VIX sits at a moderate ~16, the convergence of June CPI, PPI, retail sales, Fed Chair Warsh's first semi-annual testimony, Q2 bank earnings kickoff, monthly options expiry, ~$290B Treasury settlement, and a re-escalating US-Iran conflict creates a multi-catalyst event window. Beneath the calm surface, the UBS VIX spike-prediction model is at a 10-month high, the SKEW index is elevated at 145-150, and Nasdaq volatility is at its highest since 2002 relative to the S&P 500 — all signaling that markets are walking into volatility despite the low spot reading.",
+  "recap": [
+    {
+      "text": "The S&P 500 advanced 1.2% for the week to close at 7,575.39 on July 10, with the Nasdaq up 1.7% and the Dow down 0.5%, as indexes held near record highs despite turbulence beneath the surface.",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-investors-turn-to-earnings-season"
+    },
+    {
+      "text": "FOMC minutes released July 8 revealed a deeply split Federal Reserve under new Chair Kevin Warsh, with a few officials advocating for an immediate rate hike and 9 of 18 projecting at least one hike by year-end; the committee removed all forward guidance and dropped its easing-bias language.",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html"
+    },
+    {
+      "text": "June nonfarm payrolls came in at just 57,000 versus ~115,000 expected, with 74,000 in downward revisions to April and May, cooling near-term rate-hike odds from ~67% to ~50% for September and pushing the more likely timing of any move toward December.",
+      "url": "https://us.plus500.com/en/newsandmarketinsights/06-july-week-ahead-fed-minutes-and-jobs-data-in-focus"
+    },
+    {
+      "text": "The United States and Iran continued trading military strikes during the week, with fresh US strikes reigniting geopolitical anxiety and threatening to derail a memorandum of understanding aimed at ending the four-month conflict; oil prices remained on track for weekly gains.",
+      "url": "https://www.reuters.com/markets/us/"
+    },
+    {
+      "text": "The 30-year Treasury bond auction cleared at 5.058% on July 9, the highest yield since 2007, as part of approximately $290 billion in July coupon auctions (3-year, 10-year, 30-year) set to settle on July 15.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/bond-traders-watch-for-treasury-auctions-june-fed-minutes"
+    },
+    {
+      "text": "The CBOE VIX remained in a low-volatility regime around 15.8-16.9, but the SKEW index stayed elevated at 145-150 and the UBS VIX spike-prediction model hit a 10-month high, signaling growing tail-risk hedging beneath the calm surface.",
+      "url": "https://www.fortune.com/2026/07/07/tech-volatility-hits-highest-since-dot-com-bust-sp-500/"
+    }
+  ],
+  "triggers": [
+    {
+      "text": "June CPI release (8:30 AM ET): consensus headline -0.1% MoM (prev. +0.5%), core +0.3% MoM (prev. +0.2%), with annual core rate unchanged at 2.9% YoY; sharp oil-price declines following the US-Iran MOU expected to weigh on headline. A hot print could re-accelerate rate-hike bets and test the 10Y yield above 4.70%.",
+      "date": "Jul 14",
+      "url": "https://www.newsquawk.com/daily/5663-week-in-focus-13-17th-july-2026-highlights-include-us-inflation-and-retail-sales-fed-chair-warsh-testimony-boc-china-activity-data-and-uk-gdp"
+    },
+    {
+      "text": "Fed Chair Kevin Warsh's first semi-annual testimony to the House Financial Services Committee (text release 8:30 AM ET), followed by Senate testimony on July 15; traders will scrutinize for any explicit thresholds that could trigger a rate rise, though Warsh has notoriously leaned against forward guidance.",
+      "date": "Jul 14",
+      "url": "https://www.newsquawk.com/daily/5663-week-in-focus-13-17th-july-2026-highlights-include-us-inflation-and-retail-sales-fed-chair-warsh-testimony-boc-china-activity-data-and-uk-gdp"
+    },
+    {
+      "text": "Q2 bank earnings season kicks off: JPMorgan, BlackRock, Wells Fargo, and Citigroup report pre-market (Jul 14); Bank of America and Morgan Stanley (Jul 15); Goldman Sachs (Jul 16); Netflix after the close (Jul 16). Bank lending-growth thesis tracking above 8% YoY.",
+      "date": "Jul 14",
+      "url": "https://www.stocksanalyzer.app/blog/q2-2026-earnings-season-preview"
+    },
+    {
+      "text": "June PPI release (8:30 AM ET): consensus +0.2% MoM (prev. +1.1%), core +0.4% MoM matching May; Fed Beige Book also released. Analysts will use CPI and PPI to model June PCE expectations due July 30.",
+      "date": "Jul 15",
+      "url": "https://www.bls.gov/schedule/2026/07_sched_list.htm"
+    },
+    {
+      "text": "June Retail Sales (8:30 AM ET): consensus headline +0.3% MoM (prev. +0.9%), core ex-autos expected -0.1% MoM; also weekly Jobless Claims and Philly Fed Manufacturing Index.",
+      "date": "Jul 16",
+      "url": "https://www.briefing.com/calendars/economic?Filter=All"
+    },
+    {
+      "text": "Monthly options expiration (third Friday of July): standard equity and ETF options expire, coinciding with US Building Permits, Industrial Production, Import/Export Prices, and University of Michigan Consumer Expectations data.",
+      "date": "Jul 18",
+      "url": "https://cutemarkets.com/expiration-calendar"
+    }
+  ],
+  "watch": [
+    {
+      "text": "Monitor the CPI-PPI-retail sales data sequence as a 'dual-binary' print: a soft CPI (core +0.2% MoM or lower) could push S&P 500 toward 7,600, while a hot print (+0.4% MoM, +3.2% YoY) risks a break below 7,400 and a 10Y re-test of 4.60-4.70%. Options imply a ±1.5% move for the week.",
+      "url": "https://dependability.us/forecast/"
+    },
+    {
+      "text": "Watch US-Iran escalation headlines: continued military strikes and any collapse of the ceasefire MOU could spike oil prices, reignite inflation fears, and trigger the risk-off flows already being hedged via the elevated SKEW and UBS VIX spike-prediction model.",
+      "url": "https://www.reuters.com/markets/us/"
+    },
+    {
+      "text": "Position for the Nasdaq volatility divergence: the Cboe NDX Volatility Index near 27 is at its highest since 2002 relative to VIX, suggesting tech and mega-cap earnings (Netflix Jul 16; big tech Jul 22-31) and AI capex guidance could be the primary volatility driver even if broad-market VIX stays subdued.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-volatility-hits-highest-since-dot-com-bust-next-to-s-p-500"
+    },
+    {
+      "text": "Track the approximately $290B Treasury coupon settlement on July 15 (from July 6-9 auctions) as a potential liquidity drain, and watch Warsh testimony signals on rate-hike thresholds that could move the 2-year yield and reprice September FedWatch odds currently near 50%.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/bond-traders-watch-for-treasury-auctions-june-fed-minutes"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CNBC — S&P 500 closes higher, winning week",
+      "url": "https://www.cnbc.com/2026/07/09/stock-market-today-live-updates.html"
+    },
+    {
+      "title": "The Straits Times — Wall Street ends higher as investors turn to earnings season",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-investors-turn-to-earnings-season"
+    },
+    {
+      "title": "CNBC — Fed minutes show 'family fight' over rates",
+      "url": "https://www.cnbc.com/2026/07/08/with-minutes-due-feds-family-fight-over-interest-rates-could-drag-on.html"
+    },
+    {
+      "title": "The New York Times — A Few Officials Signaled Support for Higher Rates at Warsh's First Meeting",
+      "url": "https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html"
+    },
+    {
+      "title": "Reuters — Fed minutes due as analysts debate whether Warsh will curtail them",
+      "url": "https://www.reuters.com/business/fed-minutes-due-analysts-debate-whether-warsh-will-curtail-them-2026-07-08/"
+    },
+    {
+      "title": "FRED (St. Louis Fed) — CBOE Volatility Index (VIX)",
+      "url": "https://fred.stlouisfed.org/series/VIXCLS"
+    },
+    {
+      "title": "Bloomberg / Fortune — Tech Volatility Hits Highest Since Dot-Com Bust",
+      "url": "https://www.fortune.com/2026/07/07/tech-volatility-hits-highest-since-dot-com-bust-sp-500/"
+    },
+    {
+      "title": "Newsquawk — Week in Focus: July 13-17, 2026",
+      "url": "https://www.newsquawk.com/daily/5663-week-in-focus-13-17th-july-2026-highlights-include-us-inflation-and-retail-sales-fed-chair-warsh-testimony-boc-china-activity-data-and-uk-gdp"
+    },
+    {
+      "title": "Bureau of Labor Statistics — Schedule of Selected Releases for July 2026",
+      "url": "https://www.bls.gov/schedule/2026/07_sched_list.htm"
+    },
+    {
+      "title": "StocksAnalyzer — Q2 2026 Earnings Season Preview",
+      "url": "https://www.stocksanalyzer.app/blog/q2-2026-earnings-season-preview"
+    },
+    {
+      "title": "Dependability Holdings — S&P 500 Forecast",
+      "url": "https://dependability.us/forecast/"
+    },
+    {
+      "title": "Reuters — US Stock Markets",
+      "url": "https://www.reuters.com/markets/us/"
+    }
+  ]
+}
