@@ -1,0 +1,240 @@
+{
+  "title": "AI & Market Intelligence Briefing",
+  "generatedAt": "2026-07-11T09:00:00-04:00",
+  "asOf": "Saturday, July 11, 2026",
+  "headline": "A pivotal week as OpenAI launched GPT-5.6 and GPT-Live, the UN convened its first global AI governance dialogue, and AI-driven dealmaking pushed global M&A to a record $3.2 trillion in the first half of 2026.",
+  "sections": [
+    {
+      "heading": "AI & Agentic AI News",
+      "items": [
+        {
+          "text": "OpenAI publicly launched GPT-5.6, its most advanced model family, comprising the flagship Sol plus the lower-cost Terra and Luna tiers, after the Trump administration approved a broad rollout following national security review delays.",
+          "url": "https://www.reuters.com/technology/openai-gets-us-approval-broad-gpt-56-rollout-axios-reports-2026-07-08/"
+        },
+        {
+          "text": "OpenAI introduced GPT-Live, a full-duplex voice-enabled model allowing continuous, interruptible natural conversation, delegating complex tasks to GPT-5.5 while maintaining fluid interaction; two versions (GPT-Live-1 and mini) rolled out globally to ChatGPT users.",
+          "url": "https://washingtonpolicyreview.substack.com/p/washington-policy-review-july-8-2026"
+        },
+        {
+          "text": "xAI launched Grok 4.5, a model optimized for coding, engineering, and agentic tasks trained on tens of thousands of NVIDIA GB300 GPUs, achieving competitive SWE Bench Pro performance at 80 tokens per second.",
+          "url": "https://washingtonpolicyreview.substack.com/p/washington-policy-review-july-8-2026"
+        },
+        {
+          "text": "Anthropic restored Claude Fable 5 access after the U.S. lifted export controls imposed June 12, and separately launched Claude Sonnet 5 with a 1M-token context window at $2/$10 per million tokens, targeting cheaper agent workloads.",
+          "url": "https://talkingfingers.net/news/weekly-2026-07-05/"
+        },
+        {
+          "text": "Anthropic launched Claude Science, its first industry-vertical product, a research workbench wiring Claude into 60-plus genomics, proteomics, and cheminformatics databases, marking the company's entry into drug discovery alongside Google and OpenAI.",
+          "url": "https://talkingfingers.net/news/weekly-2026-07-05/"
+        },
+        {
+          "text": "Google brought computer-use capabilities to Gemini 3.5 Flash and introduced Gemma 4 12B, a unified encoder-free multimodal model, while rolling out Gemini 3.5 Flash as the default model in Search's AI Mode worldwide.",
+          "url": "https://aiflashreport.com/archive/2026-07-06"
+        }
+      ]
+    },
+    {
+      "heading": "Major Product Launches & Innovations",
+      "items": [
+        {
+          "text": "China's UBTECH unveiled the UWORLD U1 series, the first full-sized ultra-bionic consumer-grade humanoid robots for mass-market sale, featuring 88 high-degree-of-freedom joints and an empathetic large model, with over 13,300 pre-orders received.",
+          "url": "https://www.adnkronos.com/immediapress/eng/chinas-ubtech-unveils-full-sized-ultra-bionic-humanoid-robot-u1-series_SbhnXJSYnwpiZXeYIbvQX"
+        },
+        {
+          "text": "Meta officially launched its first Meta-branded AI glasses, the Starfire line including a Kylie Jenner Edition, featuring the new Muse Spark AI model and exclusive licensed celebrity AI voices.",
+          "url": "https://www.youtube.com/watch?v=URSJhttcEUw"
+        },
+        {
+          "text": "OpenAI and Broadcom debuted 'Jalapeño,' a custom inference chip for large language models, as OpenAI committed to $200 billion in capex and hyperscalers accelerated a shift toward proprietary silicon designs.",
+          "url": "https://www.youtube.com/watch?v=GjMELkIpN8U"
+        },
+        {
+          "text": "French Physical AI company UMA unveiled the design of its first humanoid robot at Machina Summit in Paris, introducing Real-Time Learning, an architecture enabling robots to acquire new skills through demonstration rather than manual programming.",
+          "url": "https://finance.yahoo.com/technology/ai/articles/uma-unveils-vision-next-generation-120000373.html"
+        },
+        {
+          "text": "GitHub made Kimi K2.7 Code available in Copilot Business and Enterprise plans and released the GitHub Copilot desktop app across macOS, Windows, and Linux for all Copilot tiers, broadening access to agent-driven coding workflows.",
+          "url": "https://kingy.ai/ai-launches/this-week/"
+        }
+      ]
+    },
+    {
+      "heading": "Big Tech Moves",
+      "items": [
+        {
+          "text": "Microsoft announced 4,800 job cuts (2.1% of its workforce) including 3,200 in its gaming division, overhauling Xbox and divesting up to five studios, as the company reallocates capital toward AI-driven initiatives.",
+          "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/"
+        },
+        {
+          "text": "Apple tapped Google Cloud and NVIDIA to run AI inference workloads in third-party data centers for the first time, extending its Private Cloud Compute infrastructure to access compute capacity for Apple Intelligence offerings.",
+          "url": "https://www.structureresearch.net/2026/07/06/apple-uses-third-party-cloud-for-first-time-taps-google-cloud-for-private-ai/"
+        },
+        {
+          "text": "Microsoft launched Frontier Co., a new subsidiary backed by $2.5 billion and 6,000 engineers and consultants dedicated to embedding directly with enterprise customers to accelerate real AI deployment rather than selling licenses.",
+          "url": "https://www.marketscale.com/industries/business-services/the-early-scale-2026-07-05"
+        },
+        {
+          "text": "Broadcom extended its custom chip partnership with Apple through 2031, deepening a strategic silicon relationship as the industry pivots away from commodity chips toward proprietary AI accelerator designs.",
+          "url": "https://www.bloomberg.com/news/audio/2026-07-06/bloomberg-tech-broadcom-apple-expand-chip-partnership-podcast"
+        },
+        {
+          "text": "AI-driven dealmaking pushed global M&A to approximately $3.2 trillion in the first half of 2026, up 45% year-over-year and the highest six-month total in at least a decade, with 44 transactions exceeding $10 billion.",
+          "url": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html"
+        }
+      ]
+    },
+    {
+      "heading": "Funding & Market Signals",
+      "items": [
+        {
+          "text": "AI chip startup SambaNova raised $1 billion in a late-stage round led by General Atlantic at an $11 billion post-money valuation, underscoring sustained investor appetite for AI silicon alternatives.",
+          "url": "https://www.reuters.com/business/finance/ai-chip-startup-sambanova-valued-11-billion-1-billion-funding-round-2026-07-08/"
+        },
+        {
+          "text": "Together AI closed an $800 million Series C at an $8.3 billion valuation led by Aramco Ventures, with NVIDIA, Vista Equity Partners, and General Catalyst participating; the company reported $1.15 billion in annual bookings.",
+          "url": "https://www.startuphub.ai/ai-news/ai-news/2026/ai-infrastructure-week-july-6-2026"
+        },
+        {
+          "text": "Kling AI, Kuaishou's video-generation unit, raised roughly $2.8 billion at an $18 billion post-money valuation, with Alibaba, Tencent, and Baidu among the backers, signaling massive capital concentration in AI video.",
+          "url": "https://www.wortins.com/blog/biggest-ai-funding-rounds-2026"
+        },
+        {
+          "text": "Baseten raised a $1.5 billion Series F at a ~$13 billion valuation led by Altimeter Capital, Conviction, and Spark Capital, reporting over 1 billion daily inference calls and 20x year-over-year growth in AI inference infrastructure.",
+          "url": "https://www.linkedin.com/pulse/startup-venture-capital-report-usa-canada-india-july-7-2026-uvzaf"
+        },
+        {
+          "text": "SK Hynix launched its Nasdaq listing expected to raise roughly $28 billion, one of the largest foreign-company U.S. share sales ever, as AI memory demand drives record profits for chipmakers including Samsung's 19-fold quarterly profit jump.",
+          "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-july-8f9"
+        },
+        {
+          "text": "Anthropic signed a $19 billion data center lease with TeraWulf, locking in 401 MW of AI computing infrastructure at the Justified Data campus in Kentucky, signaling a long-term infrastructure bet ahead of its anticipated IPO.",
+          "url": "https://enterprisedna.co/resources/news/"
+        }
+      ]
+    },
+    {
+      "heading": "Caribbean Business & Tech",
+      "items": [
+        {
+          "text": "Future Caribbean hosted its inaugural Agentic AI Assembly from July 10-12 in Barbados, bringing together builders, founders, and investors for hands-on collaboration on open-source agentic AI, with nearly 700 participants globally and satellite events across the region.",
+          "url": "https://markets.businessinsider.com/news/stocks/future-caribbean-s-global-ai-movement-accelerates-with-inaugural-agentic-ai-assembly-recruitment-continues-worldwide-1036310877"
+        },
+        {
+          "text": "Google obtained regulatory authorization for its $500 million submarine cable hub project in the Dominican Republic, a key step in expanding the country's international connectivity and positioning it as a regional digital infrastructure node.",
+          "url": "https://ict-pulse.com/2026/07/roundup-for-the-week-ending-5-july-2026/"
+        },
+        {
+          "text": "The Caribbean Telecommunications Union and the University of the West Indies announced the inaugural Caribbean AI Forum 2026 (CAIF 2026) for July 23-24 in Trinidad and Tobago, where the CAITF Final Report will provide a strategic roadmap for harmonized AI governance across the region.",
+          "url": "https://guyanatimesgy.com/regional-leaders-to-chart-shared-vision-for-responsible-ai-in-caribbean/"
+        },
+        {
+          "text": "At the CARICOM 51st Heads of Government Meeting in Saint Lucia (July 5-8), the new chair's five named priorities omitted AI by name, highlighting a gap between Caribbean political attention and the global AI conversation even as regional groundwork advances.",
+          "url": "https://14westai.com/blog/caricom-saint-lucia-summit-ai-gap-2026"
+        }
+      ]
+    },
+    {
+      "heading": "AI Adoption & Regulation",
+      "items": [
+        {
+          "text": "The FTC published a proposed policy statement asserting that companies which covertly steer AI outputs away from user requests toward undisclosed objectives may commit deceptive acts under Section 5, singling out Colorado's AI Act as potentially preempted where it conflicts with federal law.",
+          "url": "https://tij.news/federal-register-watch-july-7-2026/"
+        },
+        {
+          "text": "The United Nations launched its first Global Dialogue on AI Governance in Geneva, bringing together 169 countries to debate global rules for advanced AI, with the UN chief warning that AI safeguards are not keeping pace with capability advances.",
+          "url": "https://news.un.org/en/story/2026/07/1167873"
+        },
+        {
+          "text": "China's Interim Measures for AI Anthropomorphic Interactive Services take effect July 15, forcing ByteDance's Doubao (345 million monthly users) and Alibaba's Qwen to shut down humanlike agent features rather than rebuild them under the required anti-addiction and compliance architecture.",
+          "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-6-2026"
+        },
+        {
+          "text": "Illinois became the first U.S. state to require annual third-party safety audits for major AI developers, with both Anthropic and OpenAI backing the bipartisan bill, establishing the strongest legally binding AI accountability framework at the state level.",
+          "url": "https://www.youtube.com/watch?v=kr3L7voJElI"
+        },
+        {
+          "text": "The White House's frontier-AI executive order hit its first deliverable milestone on July 2, directing agencies to harden federal systems with AI-enabled defenses and stand up a voluntary framework for pre-release federal access to 'covered frontier models' while barring any mandatory licensing regime.",
+          "url": "https://frameworkbysettra.substack.com/p/the-framework-newsletter-07072026"
+        },
+        {
+          "text": "California Governor Gavin Newsom signed a first-of-its-kind deal giving all state agencies, cities, and counties access to Claude at a 50% discount, with the AI assistant 'Poppy' already piloted across 67 departments and on track for statewide rollout.",
+          "url": "https://digitalbrightfuture.com/ai-weekly-roundup-june-28-july-4-2026/"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Reuters",
+      "url": "https://www.reuters.com/technology/openai-gets-us-approval-broad-gpt-56-rollout-axios-reports-2026-07-08/"
+    },
+    {
+      "title": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/microsoft-joins-ai-driven-tech-layoff-wave-with-4800-job-cuts-2026-07-06/"
+    },
+    {
+      "title": "Reuters",
+      "url": "https://www.reuters.com/business/finance/ai-chip-startup-sambanova-valued-11-billion-1-billion-funding-round-2026-07-08/"
+    },
+    {
+      "title": "Washington Policy Review",
+      "url": "https://washingtonpolicyreview.substack.com/p/washington-policy-review-july-8-2026"
+    },
+    {
+      "title": "Talking Fingers",
+      "url": "https://talkingfingers.net/news/weekly-2026-07-05/"
+    },
+    {
+      "title": "AI Flash Report",
+      "url": "https://aiflashreport.com/archive/2026-07-06"
+    },
+    {
+      "title": "Adnkronos / GlobeNewswire",
+      "url": "https://www.adnkronos.com/immediapress/eng/chinas-ubtech-unveils-full-sized-ultra-bionic-humanoid-robot-u1-series_SbhnXJSYnwpiZXeYIbvQX"
+    },
+    {
+      "title": "Yahoo Finance / Business Wire",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uma-unveils-vision-next-generation-120000373.html"
+    },
+    {
+      "title": "Structure Research",
+      "url": "https://www.structureresearch.net/2026/07/06/apple-uses-third-party-cloud-for-first-time-taps-google-cloud-for-private-ai/"
+    },
+    {
+      "title": "MarketScale",
+      "url": "https://www.marketscale.com/industries/business-services/the-early-scale-2026-07-05"
+    },
+    {
+      "title": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-07-06/bloomberg-tech-broadcom-apple-expand-chip-partnership-podcast"
+    },
+    {
+      "title": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/09/business/ai-boom-corporate-deals.html"
+    },
+    {
+      "title": "StartupHub.ai",
+      "url": "https://www.startuphub.ai/ai-news/ai-news/2026/ai-infrastructure-week-july-6-2026"
+    },
+    {
+      "title": "Wortins",
+      "url": "https://www.wortins.com/blog/biggest-ai-funding-rounds-2026"
+    },
+    {
+      "title": "ICT Pulse",
+      "url": "https://ict-pulse.com/2026/07/roundup-for-the-week-ending-5-july-2026/"
+    },
+    {
+      "title": "Guyana Times",
+      "url": "https://guyanatimesgy.com/regional-leaders-to-chart-shared-vision-for-responsible-ai-in-caribbean/"
+    },
+    {
+      "title": "UN News",
+      "url": "https://news.un.org/en/story/2026/07/1167873"
+    },
+    {
+      "title": "The Investigative Journal",
+      "url": "https://tij.news/federal-register-watch-july-7-2026/"
+    }
+  ]
+}
