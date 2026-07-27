@@ -1,1 +1,65 @@
-{"title": "AI & Market Intelligence Briefing", "generatedAt": "2026-07-20T07:06:00-04:00", "asOf": "Monday, July 20, 2026", "headline": "AI vendors pushed agentic workflows deeper into mainstream products while capital continued concentrating into AI infrastructure and model platforms.", "sections": [{"heading": "AI & Agentic AI News", "items": [{"text": "OpenAI launched the GPT‑5.6 model family (Sol/Terra/Luna) and positioned ‘ultra’ as a multi-agent setting for accelerating complex work in ChatGPT Work and via the Responses API.", "url": "https://openai.com/index/gpt-5-6/"}, {"text": "Google Workspace highlighted multiple Gemini rollouts, including Gemini Omni inside Google Vids for higher-quality clip generation and simple edit requests, plus expanded Gemini language support in Google Docs.", "url": "https://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html"}]}, {"heading": "Major Product Launches & Innovations", "items": [{"text": "Google also previewed more creator-style tooling in Vids: steer AI avatar and voiceover delivery by adding bracketed directions like “[excitedly]”, moving toward repeatable, controllable AI video production inside enterprise suites.", "url": "https://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html"}, {"text": "Anthropic’s release feed tracked a Claude Code stability/security update and workflow changes (e.g., /verify and /code-review run only when explicitly invoked), a reminder that enterprise agent tooling is still iterating quickly on guardrails.", "url": "https://releasebot.io/updates/anthropic"}]}, {"heading": "Big Tech Moves", "items": [{"text": "AWS highlighted availability of OpenAI’s GPT‑5.6 models on Amazon Bedrock and framed ChatGPT Work as a long-horizon agent for multi-step tasks that can gather information, create finished materials, and request approvals for key actions.", "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"}, {"text": "Google continued to align NotebookLM under the Gemini brand (“Gemini Notebook”), signaling tighter ecosystem integration for research/workflow assistants.", "url": "https://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html"}]}, {"heading": "Funding & Market Signals", "items": [{"text": "SambaNova announced a first close of $1B in strategic financing at an $11B valuation to expand capacity and scale deployments across enterprise and sovereign AI customers.", "url": "https://www.generalatlantic.com/media-article/sambanova-completes-first-close-of-1-billion-financing-at-11-billion-valuation/"}, {"text": "Fireworks said it raised a $1.505B Series D at a $17.5B valuation to expand infrastructure and engineering as demand for custom model training/serving grows.", "url": "https://www.reuters.com/technology/nvidia-backed-startup-fireworks-valued-175-billion-latest-funding-2026-07-16/"}]}, {"heading": "AI Adoption & Regulation", "items": [{"text": "The Fed’s July calendar included multiple speeches/testimony touching on AI and financial inclusion, highlighting how regulators are increasingly treating AI as part of core risk and inclusion discussions.", "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"}, {"text": "Anthropic’s release feed noted self-serve HIPAA configuration for Enterprise/API orgs (BAA flow), reflecting continued productization of compliance for regulated deployments.", "url": "https://releasebot.io/updates/anthropic/claude"}]}], "sources": [{"title": "OpenAI — GPT‑5.6 announcement", "url": "https://openai.com/index/gpt-5-6/"}, {"title": "Google Workspace Updates — Weekly Recap (Jul 17, 2026)", "url": "https://workspaceupdates.googleblog.com/2026/07/weekly-recap-07-17-2026.html"}, {"title": "AWS Machine Learning Blog — GPT‑5.6 on Amazon Bedrock", "url": "https://aws.amazon.com/blogs/machine-learning/openai-gpt-5-6-sol-terra-and-luna-are-now-generally-available-on-amazon-bedrock/"}, {"title": "General Atlantic — SambaNova financing announcement", "url": "https://www.generalatlantic.com/media-article/sambanova-completes-first-close-of-1-billion-financing-at-11-billion-valuation/"}, {"title": "Reuters — Fireworks funding round", "url": "https://www.reuters.com/technology/nvidia-backed-startup-fireworks-valued-175-billion-latest-funding-2026-07-16/"}, {"title": "BLS — CPI June 2026", "url": "https://www.bls.gov/cpi/"}, {"title": "BLS — PPI June 2026", "url": "https://www.bls.gov/news.release/ppi.htm"}, {"title": "Federal Reserve — Calendar July 2026", "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"}, {"title": "FRED — VIXCLS", "url": "https://fred.stlouisfed.org/series/VIXCLS"}, {"title": "Reuters — futures edge higher ahead of megacap earnings (Jul 20, 2026)", "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-2026-07-20/"}]}
+{
+  "title": "AI & Market Intelligence Briefing",
+  "generatedAt": "2026-07-27T07:10:00-04:00",
+  "asOf": "Monday, July 27, 2026",
+  "headline": "AI’s week blended faster, cheaper models and agent platforms with mounting legal/regulatory pressure that is starting to carry real enforcement timelines.",
+  "sections": [
+    {
+      "heading": "AI & Agentic AI News",
+      "items": [
+        {
+          "text": "Google shipped three new Gemini models (including Gemini 3.6 Flash and two 3.5 Flash variants) aimed at efficiency and specialized use-cases, while its higher-end Gemini Pro/3.5 Pro update remains delayed.",
+          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+        },
+        {
+          "text": "OpenAI introduced 'Presence,' an enterprise-focused product for deploying and managing real-time voice agents and chatbots with controlled access to company systems and escalation paths.",
+          "url": "https://technewstube.com/venturebeat/1852128/openai-unveils-presence-new-platform-lets-enterprises/"
+        }
+      ]
+    },
+    {
+      "heading": "Funding & Market Signals",
+      "items": [
+        {
+          "text": "UK robotics startup Humanoid raised $152M in a Series A at a $1.35B post-money valuation, funding development, deployments, and mass manufacturing plans for its robot platform and 'KinetIQ' AI software.",
+          "url": "https://www.reuters.com/business/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation-2026-07-21/"
+        }
+      ]
+    },
+    {
+      "heading": "AI Adoption & Regulation",
+      "items": [
+        {
+          "text": "A U.S. judge approved Anthropic’s $1.5B settlement of a copyright class action over training Claude on books, one of the largest known U.S. copyright settlements and an early bellwether for training-data litigation.",
+          "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/"
+        },
+        {
+          "text": "The EU AI Act moved into enforceable phase milestones (including chatbot disclosure rules), while Illinois signed a law mandating independent third-party safety audits for certain large AI developers and China’s dedicated AI-agent rules took effect.",
+          "url": "https://shadowaipolicy.com/blog/ai-policy-news-july-24-2026"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "TechCrunch — Google releases three new Gemini models — but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/"
+    },
+    {
+      "title": "Reuters — US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit",
+      "url": "https://www.reuters.com/world/us-judge-approves-anthropics-15-billion-settlement-copyright-lawsuit-2026-07-20/"
+    },
+    {
+      "title": "Reuters — Robotics startup Humanoid raises $152 million Series A round at $1.35 billion valuation",
+      "url": "https://www.reuters.com/business/robotics-startup-humanoid-raises-152-million-series-round-135-billion-valuation-2026-07-21/"
+    },
+    {
+      "title": "Shadow AI Policy — AI Policy Week: EU Enforces, Illinois Audits, Agents Breach",
+      "url": "https://shadowaipolicy.com/blog/ai-policy-news-july-24-2026"
+    },
+    {
+      "title": "CNBC — Megacap earnings and Fed meeting could test a market on edge next week",
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
+    }
+  ]
+}
