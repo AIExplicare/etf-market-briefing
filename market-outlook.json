@@ -1,1 +1,77 @@
-{"title": "Week Ahead — Market Outlook", "generatedAt": "2026-07-20T07:06:00-04:00", "asOf": "Monday, July 20, 2026", "weekOf": "Week of July 20, 2026", "headline": "Markets enter a quieter data week but with earnings and pre-FOMC positioning as the main volatility triggers.", "volatility": "Moderate", "volatilityScore": 6, "volatilityRationale": "VIX is in a mid-teens/upper-teens range and earnings concentration plus geopolitical headlines can reprice risk quickly even with limited scheduled US macro prints.", "recap": [{"text": "June CPI showed a -0.4% month-over-month decline and 3.5% year-over-year inflation, with core inflation up 2.6% over the year.", "url": "https://www.bls.gov/cpi/"}, {"text": "June PPI for final demand fell 0.3% month over month, with final demand goods down 1.4% and services up 0.2%.", "url": "https://www.bls.gov/news.release/ppi.htm"}, {"text": "Fed Chair Kevin Warsh delivered the semiannual monetary policy report testimony to Congress in mid-July, keeping policy expectations tied to incoming inflation/labor data ahead of the July 28–29 FOMC meeting.", "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"}, {"text": "VIX moved higher into the upper teens by late last week, reflecting more hedging demand after a tech-led pullback.", "url": "https://fred.stlouisfed.org/series/VIXCLS"}], "triggers": [{"text": "Major US corporate earnings (including megacap tech) are a key test of AI-capex narratives and margins.", "date": "Jul 20–24", "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-2026-07-20/"}, {"text": "Fed enters its pre-meeting quiet period; the next major policy catalyst is the July 28–29 FOMC meeting and press conference.", "date": "Jul 28–29", "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"}, {"text": "CME options and rates expiration calendar events can influence positioning and hedging flows in interest-rate products.", "date": "Jul 20–24", "url": "https://www.cmegroup.com/tools-information/quikstrike/options-calendar-interest-rates.html"}], "watch": [{"text": "Volatility regime: VIX is at 18.31 as of Jul 20 (intraday), but the most recent FRED close available is 16.73 (Jul 16); watch whether spot vol stays bid through earnings.", "url": "https://fred.stlouisfed.org/series/VIXCLS"}, {"text": "Fed calendar: July’s schedule shows no listed Fed speeches/testimony for Jul 20–24, so markets may trade more on earnings, data surprises, and geopolitics.", "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"}], "sources": [{"title": "BLS — CPI June 2026", "url": "https://www.bls.gov/cpi/"}, {"title": "BLS — PPI June 2026", "url": "https://www.bls.gov/news.release/ppi.htm"}, {"title": "Federal Reserve — FOMC calendars", "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"}, {"title": "Federal Reserve — Calendar July 2026", "url": "https://www.federalreserve.gov/newsevents/2026-july.htm"}, {"title": "FRED — VIXCLS", "url": "https://fred.stlouisfed.org/series/VIXCLS"}, {"title": "Reuters — futures edge higher ahead of megacap earnings (Jul 20, 2026)", "url": "https://www.reuters.com/business/autos-transportation/wall-st-futures-edge-higher-ahead-of-this-weeks-megacap-earnings-2026-07-20/"}, {"title": "CME Group — interest rate options expiration calendar", "url": "https://www.cmegroup.com/tools-information/quikstrike/options-calendar-interest-rates.html"}]}
+{
+  "title": "Week Ahead — Market Outlook",
+  "generatedAt": "2026-07-27T07:10:00-04:00",
+  "asOf": "Monday, July 27, 2026",
+  "weekOf": "Week of July 27, 2026",
+  "headline": "Markets head into a catalyst-dense week where Fed messaging, Q2 GDP/PCE, and mega-cap earnings could amplify single-day moves and cross-asset volatility.",
+  "volatility": "Elevated",
+  "volatilityScore": 7,
+  "volatilityRationale": "Catalysts are stacked mid-week (Fed decision plus several mega-cap prints) and then compound into the GDP/PCE data window, a setup that can reprice rates and equity risk premia quickly if surprises cluster.",
+  "recap": [
+    {
+      "text": "Investors headed into the new week after a risk-off stretch with geopolitical risk and oil price sensitivity discussed as key overhangs in market commentary.",
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
+    },
+    {
+      "text": "Volatility had moved higher recently in public market data feeds, highlighting a more cautious regime versus earlier summer conditions.",
+      "url": "https://www.marketwatch.com/investing/index/vix"
+    },
+    {
+      "text": "Market participants faced shifting expectations around the upcoming Fed decision, with commentary emphasizing how policy guidance and inflation dynamics could drive repricing.",
+      "url": "https://www.xtb.com/en/market-analysis/economic-calendar-what-you-need-to-watch-closely-this-week-27-07-2026"
+    }
+  ],
+  "triggers": [
+    {
+      "text": "FOMC rate decision and press conference (policy guidance and risk of hawkish surprise).",
+      "date": "Jul 29",
+      "url": "https://www.xtb.com/en/market-analysis/economic-calendar-what-you-need-to-watch-closely-this-week-27-07-2026"
+    },
+    {
+      "text": "Q2 U.S. GDP and June PCE inflation prints (rates and 'soft landing' narrative sensitivity).",
+      "date": "Jul 30",
+      "url": "https://www.xtb.com/en/market-analysis/economic-calendar-what-you-need-to-watch-closely-this-week-27-07-2026"
+    },
+    {
+      "text": "Mega-cap earnings cluster (Microsoft, Meta, Amazon, Apple) with AI/data-center capex read-through for indexes and semis.",
+      "date": "Jul 29-31",
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
+    },
+    {
+      "text": "Options positioning/expiration mechanics (weekly expirations and monthlies can concentrate hedging flows).",
+      "url": "https://www.strasmore.com/blog/when-do-options-expire"
+    }
+  ],
+  "watch": [
+    {
+      "text": "Whether volatility stays bid or mean-reverts after the Fed; watch for outsized index moves around the decision and subsequent GDP/PCE releases.",
+      "url": "https://www.marketwatch.com/investing/index/vix"
+    },
+    {
+      "text": "Earnings 'quality' signals beyond headlines: guidance tone, buyback commentary, and capex intensity, especially in mega-cap tech.",
+      "url": "https://fffinstill.com/earnings-calendar/week/2026-07-27"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CNBC — Megacap earnings and Fed meeting could test a market on edge next week",
+      "url": "https://www.cnbc.com/2026/07/24/stock-market-next-week-outlook-for-july-27-31-2026.html"
+    },
+    {
+      "title": "MarketWatch — Cboe Volatility Index (VIX) overview",
+      "url": "https://www.marketwatch.com/investing/index/vix"
+    },
+    {
+      "title": "XTB — Economic calendar week of July 27, 2026",
+      "url": "https://www.xtb.com/en/market-analysis/economic-calendar-what-you-need-to-watch-closely-this-week-27-07-2026"
+    },
+    {
+      "title": "Fffinstill — Earnings calendar week of Jul 27–Jul 31, 2026",
+      "url": "https://fffinstill.com/earnings-calendar/week/2026-07-27"
+    },
+    {
+      "title": "Strasmore — When do options expire?",
+      "url": "https://www.strasmore.com/blog/when-do-options-expire"
+    }
+  ]
+}
