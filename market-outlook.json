@@ -1,1 +1,74 @@
-{"title":"Week Ahead — Market Outlook","generatedAt":"2026-09-28T07:13:00-04:00","asOf":"Monday, September 28, 2026","weekOf":"Week of September 28, 2026","headline":"A calm volatility gauge is meeting historically high Treasury yields and a dense PCE, jobs, earnings and Fed-speaking calendar, leaving markets vulnerable to a rates or geopolitical shock.","volatility":"Moderate","volatilityScore":6,"volatilityRationale":"The VIX closed at 14.87 on September 25, but SKEW was 144.91 and the 10-year Treasury yield reached its highest level since 2007; that combination points to contained day-to-day volatility with meaningful tail and duration risk. Markets are walking into several potential volatility triggers—PCE, payrolls, Micron earnings, Fed speakers and Treasury bill supply—especially if data shifts the expected rate path or geopolitical risk lifts energy prices.","recap":[{"text":"U.S. equities finished the week higher: the Dow gained 0.3%, the S&P 500 1.2% and the Nasdaq 2.1%, while Friday’s rally came as oil prices and Treasury yields eased.","url":"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09252026-12139934"},{"text":"The bond market remained the key stress point: the 10-year Treasury yield reached 5.230% intraday on September 25, its highest level since June 2007, while the 30-year yield reached its highest level since 2004.","url":"https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html"},{"text":"Spot volatility stayed subdued at a 14.87 VIX close on September 25, but the CBOE data page also flagged a high-SPX-skew backdrop; Yahoo Finance showed the SKEW Index at 144.91 at the same close.","url":"https://www.cboe.com/en/tradable-products/vix/"},{"text":"Akamai’s seven-year, $11.6 billion Anthropic cloud agreement, with a warrant for up to a 5% stake and a possible $9 billion expansion, reinforced the scale of AI-infrastructure demand and pushed Akamai shares sharply higher after hours.","url":"https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"},{"text":"The week’s market narrative remained rate-sensitive: CNBC attributed the rise in yields to hawkish Fed commentary, elevated energy prices linked to the Iran war and a hotter-than-expected purchasing-managers report, while CME futures implied a meaningful risk of another October hike.","url":"https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html"}],"triggers":[{"text":"Micron Technology reports fiscal fourth-quarter results and holds its earnings call; semiconductor demand and AI-memory commentary could move the chip complex.","date":"Sep 30","url":"https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"},{"text":"The BEA is scheduled to release August Personal Consumption Expenditures price data, the Fed’s preferred inflation gauge; a hotter or cooler print could move yields and rate expectations.","date":"Oct 1","url":"https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"},{"text":"The BLS is scheduled to release the September employment-situation report; payrolls and unemployment data will shape the October-versus-December rate-hike debate.","date":"Oct 2","url":"https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"},{"text":"The Treasury’s tentative schedule has 13-week and 26-week bill auctions on September 28, 6-week and 52-week bills on September 29, and additional bill supply on September 30 and October 1; weak demand could add pressure to front-end yields.","date":"Sep 28–Oct 1","url":"https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"},{"text":"Fed officials are scheduled to speak across September 28–30, including Vice Chair for Supervision Michelle Bowman, Governor Lisa Cook, Governor Michael Barr and Governor Christopher Waller; commentary on inflation, supervision and the economy could amplify rate volatility.","date":"Sep 28–30","url":"https://www.federalreserve.gov/newsevents/2026-september.htm"}],"watch":[{"text":"Watch whether the VIX remains near 14.87 while SKEW stays elevated at 144.91; a widening gap would signal that index calm is masking greater demand for downside protection.","url":"https://finance.yahoo.com/quote/%5ESKEW/"},{"text":"Watch the 10-year yield around the 5.2% area and the 30-year yield above 5.4%: further increases would pressure long-duration equities, mortgages and highly leveraged borrowers.","url":"https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html"},{"text":"Watch AI-capex and enterprise-adoption read-throughs from the Akamai-Anthropic infrastructure deal, Ema’s $77 million financing and upcoming semiconductor earnings; the upside case needs spending to translate into durable revenue.","url":"https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"},{"text":"Watch oil and geopolitical headlines: a renewed energy shock would compound already restrictive financial conditions and make the PCE and payrolls releases more consequential.","url":"https://www.cboe.com/en/tradable-products/vix/"}],"sources":[{"title":"Investopedia — September 25 market close","url":"https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-09252026-12139934"},{"title":"CNBC — September 25 market update","url":"https://www.cnbc.com/2026/09/24/stock-market-today-live-updates.html"},{"title":"Cboe — VIX data","url":"https://www.cboe.com/en/tradable-products/vix/"},{"title":"Yahoo Finance — SKEW data","url":"https://finance.yahoo.com/quote/%5ESKEW/"},{"title":"Reuters — Akamai and Anthropic","url":"https://www.reuters.com/technology/akamai-anthropic-sign-116-billion-cloud-services-deal-2026-09-24/"},{"title":"Micron Investor Relations","url":"https://investors.micron.com/news/press-release/2026/Micron-Technology-to-Report-Fiscal-Fourth-Quarter-Results-on-September-30-2026/default.aspx"},{"title":"Kiplinger — economic calendar","url":"https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"},{"title":"U.S. Treasury — tentative auction schedule","url":"https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.pdf"},{"title":"Federal Reserve — September 2026 calendar","url":"https://www.federalreserve.gov/newsevents/2026-september.htm"},{"title":"TechCrunch — Ema funding","url":"https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/"}]}
+{
+  "title": "Week Ahead — Market Outlook",
+  "generatedAt": "2026-10-05T07:05:00-04:00",
+  "asOf": "Monday, October 05, 2026",
+  "weekOf": "Week of October 05, 2026",
+  "headline": "Markets enter a catalyst-heavy week with a two-sided setup: softer jobs data have cooled rate-hike bets, but Fed minutes, fresh activity and sentiment readings, Treasury supply and Middle East oil risk could quickly reverse the relief.",
+  "volatility": "Moderate",
+  "volatilityScore": 6,
+  "volatilityRationale": "Moderate (6/10): the VIX closed at 15.31 on October 2, while recent Treasury-yield strain and Iran-related oil risk leave rates-sensitive assets exposed to shocks. Services data, FOMC minutes, Treasury auctions and consumer sentiment are stacked into five sessions, making this catalyst-heavy without evidence of panic pricing.",
+  "recap": [
+    {
+      "text": "For the week through October 2, the S&P 500 fell 0.3% and the Dow lost 1.3%, while the Nasdaq rose 0.5%; all three rallied on Friday after the September jobs report.",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"
+    },
+    {
+      "text": "The September employment report showed payrolls up just 29,000 and unemployment at 4.2%, with employment little changed across major industries.",
+      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+    },
+    {
+      "text": "A September 28 risk-off session linked higher oil prices and Treasury yields to the U.S.-Iran standoff and Strait of Hormuz concerns; the 30-year Treasury yield touched its highest level since May 2004.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+    }
+  ],
+  "triggers": [
+    {
+      "text": "September ISM Services PMI release at 10:00 a.m. ET; the activity, prices and employment details may help distinguish a soft-patch signal from broader demand resilience.",
+      "date": "Oct 05",
+      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+    },
+    {
+      "text": "Treasury auctions include a 3-year note on Tuesday, a 10-year reopening on Wednesday and a 30-year reopening on Thursday; investor demand could set the tone for duration and yields.",
+      "date": "Oct 06–08",
+      "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"
+    },
+    {
+      "text": "Federal Reserve minutes from the September 15–16 FOMC meeting are due at 2:00 p.m. ET, offering detail on the policy debate behind the decision.",
+      "date": "Oct 07",
+      "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
+    },
+    {
+      "text": "The University of Michigan's preliminary October consumer sentiment results are scheduled for 10:00 a.m. ET; watch for updates on household outlook and price concerns.",
+      "date": "Oct 09",
+      "url": "https://www.sca.isr.umich.edu/"
+    },
+    {
+      "text": "U.S.-Iran and Strait of Hormuz headlines remain an unscheduled oil-market risk; any renewed shipping disruption could revive energy-inflation and rate concerns.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+    }
+  ],
+  "watch": [
+    {
+      "text": "Watch whether the VIX holds near its October 2 close of 15.31 or reprices as data and policy headlines land.",
+      "url": "https://www.cboe.com/tradable-products/vix"
+    },
+    {
+      "text": "Compare the minutes and services reading with the labor-market softness that led traders to pare October rate-hike bets; a change in that rate narrative could quickly shift equity leadership.",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"
+    },
+    {
+      "text": "Track oil and long-duration Treasury yields together: renewed Iran-related energy pressure could restore the inflation and financing-cost headwinds that weighed on stocks earlier in the week.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+    }
+  ],
+  "sources": [
+    {"title": "How major US stock indexes fared Friday 10/2/2026 — AP", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"},
+    {"title": "Employment Situation Summary, September 2026 — U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/empsit.nr0.htm"},
+    {"title": "Stocks fall; oil prices off highs amid renewed hopes for Iran talks — Reuters", "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"},
+    {"title": "VIX market data — Cboe", "url": "https://www.cboe.com/tradable-products/vix"},
+    {"title": "ISM Report Release Date Calendar — Institute for Supply Management", "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"},
+    {"title": "Tentative Auction Schedule of U.S. Treasury Securities — U.S. Treasury", "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"},
+    {"title": "Federal Reserve Board Calendar: October 2026", "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"},
+    {"title": "Surveys of Consumers — University of Michigan", "url": "https://www.sca.isr.umich.edu/"}
+  ]
+}
