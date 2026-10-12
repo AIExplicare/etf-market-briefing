@@ -1,74 +1,116 @@
 {
   "title": "Week Ahead — Market Outlook",
-  "generatedAt": "2026-10-05T07:05:00-04:00",
-  "asOf": "Monday, October 05, 2026",
-  "weekOf": "Week of October 05, 2026",
-  "headline": "Markets enter a catalyst-heavy week with a two-sided setup: softer jobs data have cooled rate-hike bets, but Fed minutes, fresh activity and sentiment readings, Treasury supply and Middle East oil risk could quickly reverse the relief.",
+  "generatedAt": "2026-10-12T07:01:00-04:00",
+  "asOf": "Monday, October 12, 2026",
+  "weekOf": "Week of October 12, 2026",
+  "headline": "After last week’s rebound, markets face a catalyst-dense week where inflation and bank results contend with a still-calm volatility backdrop, while oil and yields remain the main swing risks.",
   "volatility": "Moderate",
-  "volatilityScore": 6,
-  "volatilityRationale": "Moderate (6/10): the VIX closed at 15.31 on October 2, while recent Treasury-yield strain and Iran-related oil risk leave rates-sensitive assets exposed to shocks. Services data, FOMC minutes, Treasury auctions and consumer sentiment are stacked into five sessions, making this catalyst-heavy without evidence of panic pricing.",
+  "volatilityScore": 5,
+  "volatilityRationale": "The latest regular-session CBOE VIX close was [14.84](claim:45) on October 9, a relatively calm starting point. This week’s CPI, PPI, retail-sales and major-bank earnings cluster, Treasury bill supply and Middle East oil risk make the setup event-heavy, with a hot inflation print or renewed supply shock capable of lifting volatility quickly.",
   "recap": [
     {
-      "text": "For the week through October 2, the S&P 500 fell 0.3% and the Dow lost 1.3%, while the Nasdaq rose 0.5%; all three rallied on Friday after the September jobs report.",
-      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"
+      "text": "The major U.S. equity indexes finished the week higher after a Friday rebound, while the Russell 2000 lagged and ended lower for the week, leaving a less even market picture beneath the headline gains.",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70"
     },
     {
-      "text": "The September employment report showed payrolls up just 29,000 and unemployment at 4.2%, with employment little changed across major industries.",
-      "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+      "text": "The Federal Reserve released minutes from its September meeting on October 7; most participants judged another rate increase could be appropriate by year-end, subject to incoming data.",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
     },
     {
-      "text": "A September 28 risk-off session linked higher oil prices and Treasury yields to the U.S.-Iran standoff and Strait of Hormuz concerns; the 30-year Treasury yield touched its highest level since May 2004.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+      "text": "A well-received 10-year Treasury note auction on October 7 eased immediate concerns about demand for government debt, although yields had risen sharply earlier in the week.",
+      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html"
+    },
+    {
+      "text": "Iran-related conflict and uncertainty over the return of Middle East oil supply kept crude and rates sensitive to geopolitical headlines even as U.S. equities recovered late in the week.",
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9"
     }
   ],
   "triggers": [
     {
-      "text": "September ISM Services PMI release at 10:00 a.m. ET; the activity, prices and employment details may help distinguish a soft-patch signal from broader demand resilience.",
-      "date": "Oct 05",
-      "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"
+      "text": "Large-bank third-quarter reporting begins with JPMorgan, Goldman Sachs, Citigroup and Wells Fargo, putting credit, trading and capital-markets commentary in focus.",
+      "date": "Oct 13",
+      "url": "https://www.investing.com/analysis/wall-streets-busy-week-bank-results-cpi-and-retail-sales-in-focus-200689369"
     },
     {
-      "text": "Treasury auctions include a 3-year note on Tuesday, a 10-year reopening on Wednesday and a 30-year reopening on Thursday; investor demand could set the tone for duration and yields.",
-      "date": "Oct 06–08",
+      "text": "The September Consumer Price Index is scheduled for release at 8:30 a.m. Eastern; a surprise could shift expectations for the Federal Reserve’s next move.",
+      "date": "Oct 14",
+      "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "text": "The September Producer Price Index is scheduled for release at 8:30 a.m. Eastern, adding another inflation input ahead of the next Fed meeting.",
+      "date": "Oct 15",
+      "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "text": "The Census Bureau’s advance September retail-sales report is due at 8:30 a.m. Eastern, offering a read on consumer demand and nominal spending.",
+      "date": "Oct 15",
+      "url": "https://www.census.gov/retail/release_schedule.html"
+    },
+    {
+      "text": "Treasury’s tentative calendar lists 4-week and 8-week bill auctions on Thursday; auction demand is worth watching after last week’s focus on elevated yields.",
+      "date": "Oct 15",
       "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"
     },
     {
-      "text": "Federal Reserve minutes from the September 15–16 FOMC meeting are due at 2:00 p.m. ET, offering detail on the policy debate behind the decision.",
-      "date": "Oct 07",
-      "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
-    },
-    {
-      "text": "The University of Michigan's preliminary October consumer sentiment results are scheduled for 10:00 a.m. ET; watch for updates on household outlook and price concerns.",
-      "date": "Oct 09",
-      "url": "https://www.sca.isr.umich.edu/"
-    },
-    {
-      "text": "U.S.-Iran and Strait of Hormuz headlines remain an unscheduled oil-market risk; any renewed shipping disruption could revive energy-inflation and rate concerns.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+      "text": "Standard monthly U.S. equity and ETF options reach their October expiration; options positioning may amplify late-week moves around the data and earnings flow.",
+      "date": "Oct 16",
+      "url": "https://squawkflow.com/calendar/opex-calendar-2026"
     }
   ],
   "watch": [
     {
-      "text": "Watch whether the VIX holds near its October 2 close of 15.31 or reprices as data and policy headlines land.",
-      "url": "https://www.cboe.com/tradable-products/vix"
+      "text": "Compare CPI, PPI and retail data with the Fed minutes’ year-end rate discussion; the next FOMC meeting is scheduled for October 27–28.",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
     },
     {
-      "text": "Compare the minutes and services reading with the labor-market softness that led traders to pare October rate-hike bets; a change in that rate narrative could quickly shift equity leadership.",
-      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"
+      "text": "Listen for bank commentary on consumer and corporate credit, deposits, trading and underwriting to judge whether earnings breadth can support the rally beyond the largest technology names.",
+      "url": "https://www.investing.com/analysis/wall-streets-busy-week-bank-results-cpi-and-retail-sales-in-focus-200689369"
     },
     {
-      "text": "Track oil and long-duration Treasury yields together: renewed Iran-related energy pressure could restore the inflation and financing-cost headwinds that weighed on stocks earlier in the week.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"
+      "text": "Track Iran and broader Middle East shipping and oil headlines alongside bond-market reaction; renewed supply disruption could rekindle inflation risk even with the VIX starting from a calm level.",
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9"
     }
   ],
   "sources": [
-    {"title": "How major US stock indexes fared Friday 10/2/2026 — AP", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-48e9066481cba91a5d7c6688aa74a5cd"},
-    {"title": "Employment Situation Summary, September 2026 — U.S. Bureau of Labor Statistics", "url": "https://www.bls.gov/news.release/empsit.nr0.htm"},
-    {"title": "Stocks fall; oil prices off highs amid renewed hopes for Iran talks — Reuters", "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-28/"},
-    {"title": "VIX market data — Cboe", "url": "https://www.cboe.com/tradable-products/vix"},
-    {"title": "ISM Report Release Date Calendar — Institute for Supply Management", "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/rob-report-calendar/"},
-    {"title": "Tentative Auction Schedule of U.S. Treasury Securities — U.S. Treasury", "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"},
-    {"title": "Federal Reserve Board Calendar: October 2026", "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"},
-    {"title": "Surveys of Consumers — University of Michigan", "url": "https://www.sca.isr.umich.edu/"}
+    {
+      "title": "AP News — How major U.S. stock indexes fared Friday",
+      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-dafbd0c4037ee10e2a9e305f3cfa8e70"
+    },
+    {
+      "title": "AP News — Wall Street finishes its record-setting week with gains",
+      "url": "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9"
+    },
+    {
+      "title": "Federal Reserve — September 15–16 FOMC meeting minutes",
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20260916.htm"
+    },
+    {
+      "title": "CNBC — 10-year Treasury yield and auction",
+      "url": "https://www.cnbc.com/2026/10/07/treasury-yields-auction-fomc-minutes.html"
+    },
+    {
+      "title": "Cboe — VIX Index",
+      "url": "https://www.cboe.com/tradable-products/vix"
+    },
+    {
+      "title": "Bureau of Labor Statistics — October 2026 release schedule",
+      "url": "https://www.bls.gov/schedule/2026/10_sched_list.htm"
+    },
+    {
+      "title": "U.S. Census Bureau — Retail trade release schedule",
+      "url": "https://www.census.gov/retail/release_schedule.html"
+    },
+    {
+      "title": "U.S. Treasury — Tentative Auction Schedule",
+      "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"
+    },
+    {
+      "title": "Investing.com — Wall Street’s busy week: bank results, CPI and retail sales",
+      "url": "https://www.investing.com/analysis/wall-streets-busy-week-bank-results-cpi-and-retail-sales-in-focus-200689369"
+    },
+    {
+      "title": "SquawkFlow — October 2026 options expiration calendar",
+      "url": "https://squawkflow.com/calendar/opex-calendar-2026"
+    }
   ]
 }
