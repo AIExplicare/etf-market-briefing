@@ -1,96 +1,82 @@
 {
   "title": "Week Ahead — Market Outlook",
-  "generatedAt": "2026-10-19T07:00:00-04:00",
-  "asOf": "Monday, October 19, 2026",
-  "weekOf": "Week of October 19, 2026",
-  "headline": "A tech-led selloff, hotter inflation readings, and a rising VIX leave markets vulnerable to sharp swings as midweek earnings, Treasury supply, and volatility settlement converge.",
+  "generatedAt": "2026-10-26T07:05:00-04:00",
+  "asOf": "Monday, October 26, 2026",
+  "weekOf": "Week of October 26, 2026",
+  "headline": "The Fed, growth and inflation releases, mega-cap AI spending guidance, Treasury supply, and Middle East oil risk converge in a catalyst-heavy week, leaving room for abrupt repricing.",
   "volatility": "Moderate",
   "volatilityScore": 6,
-  "volatilityRationale": "The VIX closed at 19.99 Friday after moving above 22 intraday, while the Nasdaq had its worst week since June, signaling a clear rise in hedging demand without a full panic regime. Wednesday's major-cap earnings, 20-year Treasury auction, and VIX-futures settlement are followed by Thursday claims and Friday's PMI, sentiment, and options catalysts, creating several opportunities for fast repricing.",
+  "volatilityRationale": "The latest timestamped VIX quote was 19.61 at 6:49 a.m. ET Monday, versus a 19.45 prior close, near 20 but not panic-level. Friday’s oil-driven sell-off and a concentrated run of Fed, macro, earnings, and Treasury catalysts make event-driven gaps plausible, so the setup is moderate rather than low volatility.",
   "recap": [
     {
-      "text": "U.S. equities split sharply for the week: the S&P 500 fell 1.9% and Nasdaq 4.5%, while the Dow gained 0.7%; technology and AI-linked shares led the pullback.",
-      "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c27809783ae3230b44c26e5ee4bea056"
+      "text": "The S&P 500 and Nasdaq fell 0.5% and 0.7% over the week, respectively, while the Dow gained 0.4%; Friday’s close was sharply weaker across the major averages.",
+      "url": "https://www.fidelity.com/news/article/us-markets/202610231630RTRSNEWSCOMBINED_L6N46917T_1"
     },
     {
-      "text": "The CBOE VIX closed at 19.99 on Friday after rising above 22 intraday, a marked pickup in expected near-term volatility as the tech selloff intensified.",
-      "url": "https://www.cnbc.com/quotes/.VIX"
+      "text": "Cboe described Friday’s market as highly volatile, with VIX hovering near 20, the Nasdaq down for a second straight week, and investors weighing Middle East oil risk alongside the cost of AI infrastructure.",
+      "url": "https://www.cboe.com/insights/posts/sell-off-widens-as-oil-rallies-amid-middle-east-conflict/"
     },
     {
-      "text": "September CPI rose 0.6% month over month and 3.7% year over year; core CPI increased 0.3% on the month, keeping inflation pressure in focus.",
-      "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"
-    },
-    {
-      "text": "September PPI advanced 1.3% month over month and 6.3% year over year, reinforcing concern that price pressure may be broadening beyond consumer inflation.",
-      "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm"
-    },
-    {
-      "text": "The Federal Reserve released its October Beige Book on October 14, providing district-level business conditions ahead of the next policy meeting; it was an information release, not an FOMC rate decision.",
-      "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610.htm"
-    },
-    {
-      "text": "Middle East supply and shipping risks kept energy prices in focus, adding a geopolitical channel to the week's inflation-sensitive market repricing.",
-      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3VW02T?channel=frL012"
+      "text": "Houthi attacks in Saudi Arabia pushed Brent crude to a more than five-month high and raised concern about further disruption to Middle East energy supplies.",
+      "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
     }
   ],
   "triggers": [
     {
-      "text": "September housing starts and building permits are due, offering a fresh read on rate-sensitive construction activity.",
-      "date": "Oct 20",
-      "url": "https://www.census.gov/construction/soc/schedule.html"
+      "text": "The two-day FOMC meeting concludes; the policy announcement and press conference are scheduled for Wednesday, making the Fed’s rate path and inflation language central to rates and equity pricing.",
+      "date": "Oct 27–28",
+      "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"
     },
     {
-      "text": "Meta, Tesla, IBM, Lam Research, and Texas Instruments report after the close; investors will scrutinize AI monetization, data-center spending, and guidance.",
-      "date": "Oct 21",
-      "url": "https://schwabnetwork.com/articles/week-ahead-can-corporate-earnings-offset-inflation-risk"
+      "text": "Advance Q3 GDP, September personal income and PCE inflation, and initial jobless claims arrive together, creating a concentrated growth-and-inflation test.",
+      "date": "Oct 29",
+      "url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
-      "text": "Treasury is scheduled to auction 20-year bonds, testing demand for long-duration government debt amid elevated inflation and issuance concerns.",
-      "date": "Oct 21",
-      "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"
+      "text": "The Employment Cost Index is due; labor-cost pressure could influence the market’s reading of persistent services inflation and the Fed’s next steps.",
+      "date": "Oct 30",
+      "url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"
     },
     {
-      "text": "October VIX futures reach their scheduled settlement, a volatility-market event that may matter more with spot volatility rising.",
-      "date": "Oct 21",
-      "url": "https://www.cboe.com/tradable-products/vix/vix-futures/"
+      "text": "Alphabet and Microsoft report Wednesday, followed by Amazon Thursday; investors are focused on cloud growth, AI-capex plans, and evidence of returns on infrastructure spending.",
+      "date": "Oct 28–29",
+      "url": "https://au.finance.yahoo.com/news/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html"
     },
     {
-      "text": "Weekly initial jobless claims will provide the next timely check on labor-market momentum.",
-      "date": "Oct 22",
-      "url": "https://oui.doleta.gov/unemploy/claims_arch.asp"
+      "text": "Treasury will auction bills and notes through Thursday, including 2-, 5-, and 7-year notes; demand and auction tails could move yields during the macro and Fed catalysts.",
+      "date": "Oct 26–29",
+      "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.xml"
     },
     {
-      "text": "October S&P Global flash manufacturing and services PMIs and final University of Michigan sentiment arrive, providing a growth and inflation-expectations check.",
-      "date": "Oct 23",
-      "url": "https://schwabnetwork.com/articles/week-ahead-can-corporate-earnings-offset-inflation-risk"
+      "text": "End-of-week SPX weekly options expire, adding a positioning and hedging flow to Friday’s close.",
+      "date": "Oct 30",
+      "url": "https://www.cboe.com/available_weeklys/get_csv_download/"
     }
   ],
   "watch": [
     {
-      "text": "Weekly SPXW options expire Friday; with flash PMIs and consumer sentiment on the same day, positioning and hedging flows could amplify the response to surprises.",
-      "url": "https://www.cboe.com/available_weeklys/get_csv_download/"
+      "text": "Track Saudi and broader Middle East supply headlines alongside crude; another oil spike could revive inflation concerns and lift yields.",
+      "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"
     },
     {
-      "text": "No FOMC decision or minutes are scheduled this week; the next meeting is October 27–28, so inflation, housing, claims, and earnings will shape expectations into the meeting.",
-      "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?2026"
+      "text": "For Alphabet, Microsoft, and Amazon, compare AI infrastructure spending with cloud growth, margins, and management’s evidence of monetization rather than treating capex alone as a positive signal.",
+      "url": "https://au.finance.yahoo.com/news/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html"
     },
     {
-      "text": "Monitor Middle East shipping and energy headlines: a renewed supply shock could lift inflation expectations and bond yields, while easing tensions could relieve that pressure.",
-      "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3VW02T?channel=frL012"
+      "text": "Watch whether downside hedging broadens alongside VIX; Cboe’s SKEW dashboard is a useful cross-check if a current reading is available.",
+      "url": "https://www.cboe.com/us/indices/dashboard/skew/"
     }
   ],
   "sources": [
-    {"title": "Associated Press", "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-c27809783ae3230b44c26e5ee4bea056"},
-    {"title": "CNBC VIX quote", "url": "https://www.cnbc.com/quotes/.VIX"},
-    {"title": "U.S. Bureau of Labor Statistics — CPI", "url": "https://www.bls.gov/news.release/archives/cpi_10142026.htm"},
-    {"title": "U.S. Bureau of Labor Statistics — PPI", "url": "https://www.bls.gov/news.release/archives/ppi_10152026.htm"},
-    {"title": "Federal Reserve — October Beige Book", "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202610.htm"},
-    {"title": "Reuters", "url": "http://rmb.reuters.com/rmd/rss/item/tag:reuters.com,2026:newsml_KBN3VW02T?channel=frL012"},
-    {"title": "U.S. Census Bureau", "url": "https://www.census.gov/construction/soc/schedule.html"},
-    {"title": "Schwab Network", "url": "https://schwabnetwork.com/articles/week-ahead-can-corporate-earnings-offset-inflation-risk"},
-    {"title": "U.S. Treasury", "url": "https://home.treasury.gov/system/files/221/TentativeAuctionScheduleQ32026.pdf"},
-    {"title": "U.S. Department of Labor", "url": "https://oui.doleta.gov/unemploy/claims_arch.asp"},
-    {"title": "Cboe weekly options", "url": "https://www.cboe.com/available_weeklys/get_csv_download/"},
-    {"title": "Federal Reserve FOMC calendar", "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm?2026"}
+    {"title": "Reuters via Fidelity: Wall Street ends rocky week", "url": "https://www.fidelity.com/news/article/us-markets/202610231630RTRSNEWSCOMBINED_L6N46917T_1"},
+    {"title": "Cboe: Sell-off widens as oil rallies", "url": "https://www.cboe.com/insights/posts/sell-off-widens-as-oil-rallies-amid-middle-east-conflict/"},
+    {"title": "Reuters: Brent crude and Saudi supply concerns", "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/"},
+    {"title": "Cboe VIX Index", "url": "https://www.cboe.com/tradable-products/vix/"},
+    {"title": "Federal Reserve October 2026 calendar", "url": "https://www.federalreserve.gov/newsevents/2026-october.htm"},
+    {"title": "New York Fed economic indicators calendar", "url": "https://www.newyorkfed.org/research/calendars/i-oct26.html"},
+    {"title": "Yahoo Finance: earnings and catalysts this week", "url": "https://au.finance.yahoo.com/news/google-microsoft-amazon-and-the-fed-step-up-to-a-skittish-market-what-to-watch-this-week-100000081.html"},
+    {"title": "U.S. Treasury tentative auction schedule", "url": "https://home.treasury.gov/system/files/221/Tentative-Auction-Schedule.xml"},
+    {"title": "Cboe available weekly options", "url": "https://www.cboe.com/available_weeklys/get_csv_download/"},
+    {"title": "Cboe SKEW Index dashboard", "url": "https://www.cboe.com/us/indices/dashboard/skew/"}
   ]
 }
