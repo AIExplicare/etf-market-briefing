@@ -1,27 +1,19 @@
 {
   "title": "AI & Market Intelligence Briefing",
-  "generatedAt": "2026-10-19T07:00:00-04:00",
-  "asOf": "Monday, October 19, 2026",
-  "headline": "Agentic AI is moving from model demos into enterprise workflows, creator tools, and science, while infrastructure funding and governance remain central strategic signals.",
+  "generatedAt": "2026-10-26T07:05:00-04:00",
+  "asOf": "Monday, October 26, 2026",
+  "headline": "The week’s clearest signal is the shift from standalone models toward governed enterprise agents, alongside fresh scrutiny of AI returns, regulation, and regional capability-building.",
   "sections": [
     {
       "heading": "AI & Agentic AI News",
       "items": [
         {
-          "text": "Meta unveiled Muse Wonder and Muse Wonder Full on October 12, positioning them for long-running personal and professional agent tasks with Active Memory and Active Focus capabilities across areas such as law, finance, health, and coding.",
-          "url": "https://about.fb.com/news/2026/10/12/introducing-muse-wonder-models/"
+          "text": "Anthropic opened Claude Duet as a proactive-agent research preview for Pro and Max users on October 21, extending Claude toward background task assistance.",
+          "url": "https://docs.anthropic.com/en/release-notes/claude-apps"
         },
         {
-          "text": "Google began rolling Gemini 4 Argon to paid developers, enterprises, and eligible consumer subscribers on October 13, with access through the Gemini API, enterprise products, the Gemini app, and Search AI Mode.",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
-        },
-        {
-          "text": "OpenAI introduced the Rosalind Academic Plan for eligible U.S. university labs, offering sponsored ChatGPT Business seats and approval-based access to GPT-Rosalind and its life-sciences research workbench.",
-          "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/"
-        },
-        {
-          "text": "HCLTech and Anthropic announced a global partnership to scale governed enterprise agents, including a dedicated Anthropic business unit and plans to embed Claude in selected HCLSoftware products.",
-          "url": "https://www.hcltech.com/press-releases/hcltech-and-anthropic-sign-global-premier-partnership-scale-governed-agentic-ai"
+          "text": "MiniMax launched M3.1 Flash on October 19 and said it delivers major gains on agentic, programming, and cybersecurity tasks; its claims of nearly 3× inference speed and 70% lower usage cost are company-reported.",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-2026-10-19/"
         }
       ]
     },
@@ -29,12 +21,12 @@
       "heading": "Major Product Launches & Innovations",
       "items": [
         {
-          "text": "Lovable added OpenAI live voice, the latest Claude models, Gemini 4 Argon and creative models, plus web-research and data tools to its no-code builder, letting users create voice, multimedia, and research apps through prompts.",
-          "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable"
+          "text": "AWS announced the public beta of TorchNeuron, an open-source native PyTorch backend for Trainium 2 and 3 that supports eager execution and torch.compile with minimal code changes.",
+          "url": "https://aws.amazon.com/tw/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium/"
         },
         {
-          "text": "Faraday Future introduced its FF Nova and Nova Mini humanoid robots, positioning the lower-cost devices for developer and education use as well as hands-on physical-AI interaction.",
-          "url": "https://www.businesswire.com/news/home/20261015292642/en/Faraday-Future-and-FFR-Jointly-Launch-FF-Nova-First-Embodied-AI-Humanoid-Robot-Priced-Below-$2500-in-U.S.-FF-Nova-Mini-Physical-AI-Spark-Program-Curriculum-Nova-Reinforcement-Learning-Developer-Program-and-Developer-Community-Recruitment"
+          "text": "Walmart unveiled an Agent Gateway connecting assistants such as ChatGPT, Gemini, and Meta Muse to Walmart and Sam’s Club shopping; customers can set spending limits, require approval, and revoke agent access, with rollout planned for November.",
+          "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/"
         }
       ]
     },
@@ -42,12 +34,12 @@
       "heading": "Big Tech Moves",
       "items": [
         {
-          "text": "Microsoft said it will scale Azure Maia deployments toward multi-gigawatt capacity beginning in 2027, signaling a larger push into custom AI infrastructure and accelerator supply.",
-          "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"
+          "text": "OpenAI and Google Cloud announced that OpenAI frontier models and Codex workflows will be available through Google Cloud Model Garden, starting with a private preview for selected enterprise customers.",
+          "url": "https://openai.com/index/openai-models-google-cloud/"
         },
         {
-          "text": "Nvidia agreed to take minority stakes in French health-tech company Doctolib and robotics startup Genesis AI, extending its investment activity beyond chips into AI applications and platforms.",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/nvidia-buy-minority-stake-frances-doctolib-2026-10-13/"
+          "text": "OpenAI acquired Orchestra Bio, a platform that coordinates biopharma drug-development work, and plans to combine its team and technology with Rosalind and Rosalind Workbench; terms were not disclosed.",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"
         }
       ]
     },
@@ -55,12 +47,16 @@
       "heading": "Funding & Market Signals",
       "items": [
         {
-          "text": "AI-infrastructure provider Modal Labs raised a $750 million Series D at a reported $15.75 billion valuation, underscoring investor appetite for inference and compute capacity despite a more selective venture market.",
-          "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/"
+          "text": "Legal AI company Legora raised a $550 million Series E at an $8.8 billion valuation, with the capital earmarked in part for North American expansion.",
+          "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"
         },
         {
-          "text": "Pluto Security emerged from stealth with $42 million across seed and Series A funding to monitor and control risks from enterprise AI tools, agents, and employee-built applications.",
-          "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+          "text": "Flapping Airplanes announced a $1 billion Series A at a reported $6 billion valuation to develop model-training approaches that use less data, nine months after its seed round.",
+          "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"
+        },
+        {
+          "text": "Otter.ai secured $320 million from General Catalyst’s Customer Value Fund for enterprise growth and product expansion; the article describes this as non-dilutive financing, not an equity round.",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
         }
       ]
     },
@@ -68,12 +64,12 @@
       "heading": "Caribbean Business & Tech",
       "items": [
         {
-          "text": "Caribbean health leaders advanced cross-border digital-health data integration through the Pan-American Highway for Digital Health, with interoperability, policy, and cybersecurity identified as regional priorities.",
-          "url": "https://www.paho.org/en/news/13-10-2026-caribbean-health-leaders-mobilize-behind-pan-american-highway-digital-health-ph4h"
+          "text": "Trinidad-based Webfx launched an AI Studio for implementation and workflow redesign and an Academy for practical training, playbooks, and internal capability-building across Caribbean organizations.",
+          "url": "https://caribbeannewsglobal.com/webfx-launches-ai-studio-and-academy-to-help-caribbean-businesses-build-practical-ai-capability/"
         },
         {
-          "text": "Jamaica Observer's coverage of the IMF's October outlook highlighted the uneven geography of the AI investment boom: AI supports global demand, while Caribbean growth faces energy-price and distributional pressures; the report did not estimate a Jamaica-specific AI growth effect.",
-          "url": "https://www.jamaicaobserver.com/2026/10/17/ai-boom-global-economy-widens-growth-divide-imf/"
+          "text": "A Caribbean Export feature highlighted regional digital ventures, including DeliveRx AI’s clinician-supervised triage and telehealth platform, which is seeking $3.2 million for validation and wider deployment.",
+          "url": "https://caribbeannewsglobal.com/digital-caribbean-building-solutions-that-can-scale/"
         }
       ]
     },
@@ -81,35 +77,29 @@
       "heading": "AI Adoption & Regulation",
       "items": [
         {
-          "text": "The European Commission's Joint Research Centre reported that AI adoption in EU strategic sectors rose from 7% in 2021 to 18% in 2025, with adoption more than doubling in almost every sector it examined.",
-          "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/ai-adoption-more-doubles-almost-every-eu-strategic-sector-2026-10-14_en"
+          "text": "ECLAC and Chile’s CENIA released ILIA 2026, covering 20 Latin American and Caribbean countries; it estimates AI adoption at 27.6% for large firms, 12.8% for medium firms, and 6.8% for small firms.",
+          "url": "https://jamaica-gleaner.com/article/news/20261022/latin-america-and-caribbean-urged-take-ownership-artificial-intelligence"
         },
         {
-          "text": "The European Commission published EN 18286:2026 in the Official Journal as the first harmonised standard supporting the AI Act; it specifies a quality-management system for high-risk AI providers and supports Article 17 conformity.",
-          "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"
-        },
-        {
-          "text": "The EU's RAISE initiative opened a pledge round for AI-for-science infrastructure, including Google's commitment of cloud credits and access to DeepMind scientific models for European researchers.",
-          "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-ai-science-strategy/raise-resource-ai-science-europe/raise-pledging-initiative-ai-science-enablers_en"
+          "text": "Pennsylvania signed a law requiring disclosure when advertisements shown in the state are substantially generated or rewritten with AI; it takes effect in 60 days, with political ads exempted according to the report.",
+          "url": "https://www.cbsnews.com/pittsburgh/news/pennsylvania-disclosures-ai-generated-ads/"
         }
       ]
     }
   ],
   "sources": [
-    {"title": "Meta Newsroom", "url": "https://about.fb.com/news/2026/10/12/introducing-muse-wonder-models/"},
-    {"title": "Google DeepMind", "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"},
-    {"title": "OpenAI", "url": "https://openai.com/index/introducing-the-rosalind-academic-plan/"},
-    {"title": "HCLTech", "url": "https://www.hcltech.com/press-releases/hcltech-and-anthropic-sign-global-premier-partnership-scale-governed-agentic-ai"},
-    {"title": "Lovable", "url": "https://lovable.dev/blog/ai-models-and-tools-in-lovable"},
-    {"title": "Business Wire", "url": "https://www.businesswire.com/news/home/20261015292642/en/Faraday-Future-and-FFR-Jointly-Launch-FF-Nova-First-Embodied-AI-Humanoid-Robot-Priced-Below-$2500-in-U.S.-FF-Nova-Mini-Physical-AI-Spark-Program-Curriculum-Nova-Reinforcement-Learning-Developer-Program-and-Developer-Community-Recruitment"},
-    {"title": "Microsoft", "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/"},
-    {"title": "Reuters", "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/nvidia-buy-minority-stake-frances-doctolib-2026-10-13/"},
-    {"title": "Crunchbase News", "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-investors-scaled-back-ai-biotech-modal/"},
-    {"title": "TechCrunch", "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"},
-    {"title": "PAHO", "url": "https://www.paho.org/en/news/13-10-2026-caribbean-health-leaders-mobilize-behind-pan-american-highway-digital-health-ph4h"},
-    {"title": "Jamaica Observer", "url": "https://www.jamaicaobserver.com/2026/10/17/ai-boom-global-economy-widens-growth-divide-imf/"},
-    {"title": "European Commission Joint Research Centre", "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/ai-adoption-more-doubles-almost-every-eu-strategic-sector-2026-10-14_en"},
-    {"title": "European Commission", "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal"},
-    {"title": "European Commission RAISE", "url": "https://research-and-innovation.ec.europa.eu/strategy/strategy-research-and-innovation/our-digital-future/european-ai-science-strategy/raise-resource-ai-science-europe/raise-pledging-initiative-ai-science-enablers_en"}
+    {"title": "Anthropic Claude release notes", "url": "https://docs.anthropic.com/en/release-notes/claude-apps"},
+    {"title": "Reuters: MiniMax launches M3.1 Flash", "url": "https://www.reuters.com/world/asia-pacific/chinas-minimax-launches-updated-ai-model-m31-flash-claims-major-improvements-2026-10-19/"},
+    {"title": "AWS: TorchNeuron public beta", "url": "https://aws.amazon.com/tw/about-aws/whats-new/2026/10/aws-announce-native-pytorch-support-trainium/"},
+    {"title": "Reuters: Walmart Agent Gateway", "url": "https://www.reuters.com/business/finance/walmart-launches-tools-ai-agents-shop-customers-2026-10-21/"},
+    {"title": "OpenAI: Models are coming to Google Cloud", "url": "https://openai.com/index/openai-models-google-cloud/"},
+    {"title": "OpenAI: Orchestra Bio acquisition", "url": "https://openai.com/index/openai-to-acquire-orchestra-bio/"},
+    {"title": "TechCrunch: Legora Series E", "url": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/"},
+    {"title": "TechCrunch: Flapping Airplanes Series A", "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/"},
+    {"title": "TechCrunch: Otter.ai financing", "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"},
+    {"title": "Caribbean News Global: Webfx AI Studio and Academy", "url": "https://caribbeannewsglobal.com/webfx-launches-ai-studio-and-academy-to-help-caribbean-businesses-build-practical-ai-capability/"},
+    {"title": "Caribbean News Global: Digital Caribbean", "url": "https://caribbeannewsglobal.com/digital-caribbean-building-solutions-that-can-scale/"},
+    {"title": "Jamaica Gleaner: ILIA 2026", "url": "https://jamaica-gleaner.com/article/news/20261022/latin-america-and-caribbean-urged-take-ownership-artificial-intelligence"},
+    {"title": "CBS Pittsburgh: Pennsylvania AI-ad disclosure law", "url": "https://www.cbsnews.com/pittsburgh/news/pennsylvania-disclosures-ai-generated-ads/"}
   ]
 }
